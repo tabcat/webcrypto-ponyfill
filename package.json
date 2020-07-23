@@ -1,0 +1,22 @@
+{
+  "name": "@tabcat/webcrypto-ponyfill",
+  "version": "1.0.0",
+  "description": "webcrypto api in the browser and node-webcrypto-ossl in node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabcat/webcrypto-ponyfill.git"
+  },
+  "keywords": [
+    "webcrypto"
+  ],
+  "author": "andersb@tuta.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabcat/webcrypto-ponyfill/issues"
+  },
+  "homepage": "https://github.com/tabcat/webcrypto-ponyfill#readme"
+}
