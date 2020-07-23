@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tabcat/webcrypto-ponyfill/issues"
   },
-  "homepage": "https://github.com/tabcat/webcrypto-ponyfill#readme"
+  "homepage": "https://github.com/tabcat/webcrypto-ponyfill#readme",
+  "dependencies": {
+    "node-webcrypto-ossl": "^2.1.0"
+  }
 }
