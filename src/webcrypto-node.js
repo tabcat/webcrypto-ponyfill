@@ -1,4 +1,4 @@
 'use strict'
-const Webcrypto = require('node-webcrypto-ossl')
-const webcrypto = new Webcrypto()
+const { Crypto } = require('node-webcrypto-ossl')
+const webcrypto = new Crypto()
 exports.get = () => webcrypto
