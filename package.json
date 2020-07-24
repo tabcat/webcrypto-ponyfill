@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "webcrypto api in the browser and node-webcrypto-ossl in node.js",
   "main": "src/index.js",
+  "files": [
+    "/src"
+  ],
   "browser": {
     "./src/webcrypto-node.js": "./src/webcrypto-browser.js"
   },
