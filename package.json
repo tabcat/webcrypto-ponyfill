@@ -1,6 +1,6 @@
 {
   "name": "@tabcat/webcrypto-ponyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webcrypto api in the browser and node-webcrypto-ossl in node.js",
   "main": "src/index.js",
   "files": [
